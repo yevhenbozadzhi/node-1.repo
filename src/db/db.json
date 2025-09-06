@@ -28,5 +28,23 @@
     "name": "Luxurious Cotton Bike",
     "price": "953.09",
     "category": "Sports"
+  },
+  {
+    "name": "Licensed Wooden Bike",
+    "price": "995.89",
+    "category": "Beauty",
+    "description": "Featuring Indium-enhanced technology, our Computer offers unparalleled rare performance"
+  },
+  {
+    "name": "Small Cotton Bacon",
+    "price": "693.99",
+    "category": "Kids",
+    "description": "Ergonomic Chair made with Rubber for all-day muffled support"
+  },
+  {
+    "name": "Oriental Silk Soap",
+    "price": "898.09",
+    "category": "Kids",
+    "description": "Stylish Car designed to make you stand out with cool looks"
   }
 ]
